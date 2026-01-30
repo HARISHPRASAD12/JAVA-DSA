@@ -1,0 +1,1 @@
+A structured collection of Data Structures and Algorithms problems solved in Java, focusing on clean code, optimized solutions, and interview preparation. Covers arrays, strings, recursion, linked lists, stacks, queues, trees, graphs, and hashing.
